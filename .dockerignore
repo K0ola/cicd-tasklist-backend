@@ -1,0 +1,16 @@
+node_modules
+dist
+coverage
+reports
+.git
+.gitignore
+.env
+.env.example
+Dockerfile
+.dockerignore
+Jenkinsfile
+sonar-project.properties
+sbom-spdx.json
+.scannerwork
+**/*.test.ts
+prisma/test.db
